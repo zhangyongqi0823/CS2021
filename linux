@@ -1,0 +1,21 @@
+# linux-1
+
+# linux-2
+# linux-3
+# linux-4
+# linux-5
+
+
+
+# linux-6
+root       24408  0.0  0.0  24360  2888 pts/0    S    Oct12   0:00 socat TCP-LISTEN:2111,reuseaddr,fork EXEC:/bin/flag
+lab        30134  0.0  0.0  11280  1084 pts/5    S+   03:33   0:00 grep --color=auto socat 
+
+# linux-7
+
+
+# linux-8
+
+# linux-9
+
+# linux-10
