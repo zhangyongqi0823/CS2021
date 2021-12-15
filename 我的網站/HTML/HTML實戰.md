@@ -6,3 +6,4 @@ direction= left表示運動方向向左。marquee的寬度可以使用絕對象�
 例如width=200等這個值限定了跑馬燈滾動的範圍。需要說明的是該效果在 Netscape下是看不到的。
 程式碼:<marquee width=400 behavior=alternate direction=left align=middle>彈來彈去跑馬燈!</marquee>
 ```
+https://developer.mozilla.org/zh-TW/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
